@@ -2,7 +2,9 @@
 
 
 ## 💫 Sobre mim: <br>
-🚀 Sou um estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e aprendizado contínuo!<br><br>💡 Tenho experiência com lógica de programação, desenvolvimento de APIs REST utilizando Java e o framework Spring Boot. Além disso, domino versionamento de código com Git e GitHub e ferramentas como JPA, Hibernate, Maven, Lombok, MySQL e PostgreSQL.<br><br>🧩 Sou comunicativo, adaptável e gosto de resolver problemas de forma analítica. Busco um estágio para ampliar minha base de conhecimentos e contribuir com a equipe, agregando valor por meio da minha dedicação e curiosidade!
+🚀 Sou um estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e aprendizado contínuo!<br><br>💡 Tenho experiência com lógica de programação, desenvolvimento de APIs REST utilizando Java e o framework Spring Boot. Além disso, domino versionamento de código com Git e GitHub e ferramentas como JPA, Hibernate, Maven, Lombok, MySQL e PostgreSQL.<br><br>🖥️ Além de possuir uma sólida base de lógica de programação, também tenho conhecimento intermediário em Python e C#.
+
+🌍 Inglês avançado para escrita, leitura e conversação.<br><br>🧩 Sou comunicativo, adaptável e gosto de resolver problemas de forma analítica. Busco um estágio para ampliar minha base de conhecimentos e contribuir com a equipe, agregando valor por meio da minha dedicação e curiosidade!
 
 
 ## 🌐 Redes sociais:
