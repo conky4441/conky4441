@@ -1,12 +1,24 @@
 # Olá! 👋
+💻 Desenvolvedor de Software e estudante de Análise e Desenvolvimento de Sistemas, com experiência profissional na manutenção, evolução e modernização de sistemas ERP.
 
+Atuo no desenvolvimento backend e frontend, principalmente com Java, Spring Boot, React, TypeScript, Oracle Database e PL/SQL.
 
-## 💫 Sobre mim: <br>
-🚀 Sou um estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e aprendizado contínuo!<br><br>💡 Tenho experiência em desenvolvimento de APIs REST utilizando C# e o framework .NET. Além disso, domino versionamento de código com Git e GitHub e ferramentas como Entity Framework, Dapper, NuGet, AutoMapper, SQL Server e PostgreSQL.<br>
-<br>🖥️ No front-end, tenho experiência com desenvolvimento web utilizando HTML, CSS e JavaScript, criando interfaces responsivas e interativas. <br><br>🛠️ Além de possuir uma sólida base de lógica de programação, também tenho conhecimento intermediário em Java e Python.
+No dia a dia, tenho experiência com:
 
-🌍 Inglês avançado para escrita, leitura e conversação.<br><br>🧩 Sou comunicativo, adaptável e gosto de resolver problemas de forma analítica. Busco um estágio para ampliar minha base de conhecimentos e contribuir com a equipe, agregando valor por meio da minha dedicação e curiosidade!
+☕ Desenvolvimento e manutenção de aplicações com Java 8/11 e Spring Boot
+🔗 Desenvolvimento e manutenção de APIs REST
+⚛️ Desenvolvimento frontend com React e TypeScript
+🗄️ Criação, manutenção e otimização de rotinas Oracle PL/SQL
+🛠️ Manutenção e modernização de sistemas legados
+🐛 Análise de causa raiz, correção de bugs e implementação de regras de negócio
+🔄 Versionamento de código utilizando Git
+🤝 Apoio no treinamento e adaptação de novos desenvolvedores
 
+Também possuo experiência com tecnologias como JSF, PrimeFaces, SQL Server, PostgreSQL, C# e .NET.
+
+🎓 Atualmente curso Análise e Desenvolvimento de Sistemas e busco evoluir continuamente como desenvolvedor, aprofundando meus conhecimentos em desenvolvimento de software, arquitetura e boas práticas.
+
+🌎 Inglês avançado para leitura, escrita e conversação.
 ## 🌐 Redes sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luan-bossardi-1b2951220/) 
 
