@@ -4,7 +4,6 @@
 Atuo no desenvolvimento backend e frontend, principalmente com Java, Spring Boot, React, TypeScript, Oracle Database e PL/SQL.
 
 No dia a dia, tenho experiência com:
-
 ☕ Desenvolvimento e manutenção de aplicações com Java 8/11 e Spring Boot
 🔗 Desenvolvimento e manutenção de APIs REST
 ⚛️ Desenvolvimento frontend com React e TypeScript
